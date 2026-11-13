@@ -1,0 +1,5 @@
+{
+  "name": "mcp23x17",
+  "version": "1.0.0",
+  "description": "Custom register and bit macros for MCP23017/MCP23S17"
+}
